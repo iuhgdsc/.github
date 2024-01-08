@@ -16,9 +16,10 @@ Program supported by [Google Developers](https://developers.google.com/community
 
 ## Contact
 
-✉️ [team@iuhgdsc.com](mailto:contact@iuhgdsc.com)
+✉️ [team.iuh.gdsc@gmail.com](mailto:team.iuh.gdsc@gmail.com)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/iuh.gdsc/)](https://facebook.com/iuh.gdsc)
+[![Discord Badge](https://img.shields.io/badge/Discord-6633CC?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/nqbp3dfx9E)](https://discord.gg/nqbp3dfx9E)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iuhgdsc/)](https://twitter.com/iuhgdsc/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/iuh.gdsc/)](https://instagram.com/iuh.gdsc)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCeDvhkh14Y1QtNRfo5nhRbg)](https://www.youtube.com/channel/UCeDvhkh14Y1QtNRfo5nhRbg)
